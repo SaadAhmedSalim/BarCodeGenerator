@@ -1,3 +1,5 @@
+[![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
+
 # BarCodeGenerator
 
 Using Python Barcode Module I make a simple Barcode generator. It will automatically generate Barcode. 
